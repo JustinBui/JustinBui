@@ -1,7 +1,7 @@
-### Hello everyone! My name is Justin Bui (He/Him) - aka [BuiTheBoi] 👋
+## Hello everyone! My name is Justin Bui (He/Him) - aka [BuiTheBoi] 👋
 
 
-## I am a computer science student at California State University, Fullerton!
+### I am a computer science student at California State University, Fullerton!
 
 - 🔭 I just launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/Professional-Portfolio-Default/)
 - 📓 I’m currently learning new Python libraries, and JavaScript 🐍📜
@@ -12,7 +12,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[http://linkedin.com/in/justin-bui-4a8926194]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -32,3 +34,6 @@
 
 <br />
 <br />
+
+[linkedin]: http://linkedin.com/in/justin-bui-4a8926194
+[gmail]: mailto:jbui3493@gmail.com
