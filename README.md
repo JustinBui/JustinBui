@@ -3,7 +3,7 @@
 
 ### I am a computer science student at California State University, Fullerton!
 
-- 🔭 I just launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/Professional-Portfolio-Default/)
+- 🔭 I just launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/)
 - 📓 I’m currently learning new Python libraries, and JavaScript 🐍📜
 - 🏙️ I’m looking for an entry level internship for software engineers
 - 🥅 2021 Goals: Be more involved with CS clubs at my school and working on more projects
