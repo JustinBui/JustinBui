@@ -6,9 +6,9 @@
 - 🔭 I just launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/)
 - 📓 I’m currently learning new Python libraries, and JavaScript 🐍📜
 - 🏙️ I’m looking for an entry level internship for software engineers
-- 🥅 2021 Goals: Be more involved with CS clubs at my school and working on more projects
+- 🥅 2022 Goals: Be more involved with CS clubs, applying to more internships, and working on more LeetCoding problems
 - 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
-- 🐢 Fun Fact: I have 2 turtles!
+- 🎷 Fun Fact: I played the alto saxophone in high school!
 
 ### Connect with me:
 
