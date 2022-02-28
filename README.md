@@ -1,6 +1,6 @@
 ## Hello everyone! My name is Justin Bui (He/Him) - aka [BuiTheBoi] 👋
 
-<img src=https://www.therelicans.com/images/c4S8YOwrle5cI7MBEUJQxACeFK_gX56JEkBOjWPIauw/s:1600:900/mb:500000/ar:1/aHR0cHM6Ly93d3cu/dGhlcmVsaWNhbnMu/Y29tL3JlbW90ZWlt/YWdlcy91cGxvYWRz/L2FydGljbGVzL3gy/YjV1azl2NG16ZGFy/cWt0MTVyLmdpZg width="450px" height="450px" />
+<img src=https://www.therelicans.com/images/c4S8YOwrle5cI7MBEUJQxACeFK_gX56JEkBOjWPIauw/s:1600:900/mb:500000/ar:1/aHR0cHM6Ly93d3cu/dGhlcmVsaWNhbnMu/Y29tL3JlbW90ZWlt/YWdlcy91cGxvYWRz/L2FydGljbGVzL3gy/YjV1azl2NG16ZGFy/cWt0MTVyLmdpZg width="350px" height="350px" />
 
 ### I am a computer science student at California State University, Fullerton!
 
