@@ -1,5 +1,6 @@
 ## Hello everyone! My name is Justin Bui (He/Him) - aka [BuiTheBoi] 👋
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### I am a computer science student at California State University, Fullerton!
 
@@ -14,7 +15,6 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
 
 <br />
 
