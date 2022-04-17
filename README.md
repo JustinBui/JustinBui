@@ -39,13 +39,14 @@
 </p>
 
 <br />
-
 <br>
 
 ### Operating Systems:
 
+<p align="left>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+</p>
 <br />
 
 [linkedin]: http://linkedin.com/in/justin-bui-4a8926194
