@@ -7,9 +7,9 @@
 ### I am a computer science student at California State University, Fullerton!
 
 - 🔭 I just launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/)
-- 📓 I’m currently learning new Python libraries, and JavaScript 🐍📜
+- 📓 I’m currently self-teaching data science using Python and SQL 🐍📜
 - 🏙️ I’m looking for an entry level internship for software engineers
-- 🥅 2022 Goals: Be more involved with CS clubs, applying to more internships, and working on more LeetCoding problems
+- 🥅 2022 Goals: Be more applying for more internships, solving more Leetcode problems, and continue learning! 🧠
 - 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
 - 🎷 Fun Fact: I played the alto saxophone in high school!
 
@@ -28,9 +28,12 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:3px">
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
