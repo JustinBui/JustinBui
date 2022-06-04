@@ -25,6 +25,8 @@
 <p align="left">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://camo.githubusercontent.com/7df250f624de398fbf14c84b1667c3d1e8e1450d67c0be03bd0dfb4e6a28c2c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://camo.githubusercontent.com/af4a4d88e07eb6edbb39a752bcd1a4fd3ac989542fb5b878b741872ea66fda9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7838362d417373656d626c792d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d77686974" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:3px">
