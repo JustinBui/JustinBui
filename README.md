@@ -1,7 +1,8 @@
 ## Hello everyone! My name is Justin Bui (He/Him) - aka [BuiTheBoi] 👋
 
 <p align="center">
-    <img src=https://i.pinimg.com/originals/0c/7b/7b/0c7b7bd6de1525cecb762d4f3de34ea1.gif width="900" height="400" />
+    <!-- <img src=https://i.pinimg.com/originals/0c/7b/7b/0c7b7bd6de1525cecb762d4f3de34ea1.gif width="900" height="400" /> -->
+    <img src=https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif width="700" height="270" />
 </p>
 
 ### I am a computer science student at California State University, Fullerton!
