@@ -12,7 +12,7 @@
 - 🏙️ I’m looking for an entry level internship for software engineers
 - 🥅 2022 Goals: Be more applying for more internships, solving more Leetcode problems, and continue learning! 🧠
 - 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
-- 🎷 Fun Fact: I played the alto saxophone in high school!
+- 🦞 Fun Fact: I love seafood!!
 
 ### Connect with me:
 
