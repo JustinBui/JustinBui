@@ -1,4 +1,4 @@
-## Hello everyone! My name is Justin Bui (He/Him) - aka [BuiTheBoi] 👋
+## Hello everyone! My name is Justin Bui (He/Him) 👋
 
 <p align="center">
     <img src=https://komarev.com/ghpvc/?username=BuiTheBoi&style=for-the-badge>
@@ -9,17 +9,16 @@
 
 ### I am a computer science student at California State University, Fullerton!
 
-- 🔭 I just launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/)
-- 📓 I’m currently self-teaching data science using Python and SQL 🐍📜
-- 🏙️ I’m looking for an entry level internship for software engineers
-- 🥅 2022 Goals: Be more applying for more internships, solving more Leetcode problems, and continue learning! 🧠
+- 🔭 I've launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/)
+- 📓 I’m currently expanding my knowledge on web backend and machine learning through self-learning 🐍📜
+- 🏙️ I’m actively seeking entry level positions for software engineers and/or data scientist
+- 🥅 2023 Goals: Continue applying for jobs, solving more Leetcode problems, and continue learning! 🧠
 - 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
 - 🦞 Fun Fact: I love seafood!!
 
 ### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][gmail]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][linkedin]
 
 <br />
 
@@ -32,6 +31,8 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:3px">
@@ -46,7 +47,6 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html" style="vertical-align:top; margin:3px">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 </p>
 
 <br />
