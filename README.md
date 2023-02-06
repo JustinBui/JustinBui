@@ -9,7 +9,7 @@
 
 ### I am a computer science student at California State University, Fullerton!
 
-- 🔭 I've launched my professional portfolio: [Check It Out Here!](https://buitheboi.github.io/)
+- 🔭 I've launched my professional portfolio: [Check It Out Here!](https://justinbui.github.io/)
 - 📓 I’m currently expanding my knowledge on web backend and machine learning through self-learning 🐍📜
 - 🏙️ I’m actively seeking entry level positions for software engineers and/or data scientist
 - 🥅 2023 Goals: Continue applying for jobs, solving more Leetcode problems, and continue learning! 🧠
