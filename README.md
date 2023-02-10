@@ -60,3 +60,8 @@
 <img width="465" height="225" src="https://github-readme-stats.vercel.app/api?username=justinbui&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars" style="border-radius:10px;">
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinbui&theme=highcontrast&layout=compact" style="border-radius:10px;">
 </p>
+
+
+### Current LeetCode Journey:
+
+![LeetCode Stats](https://leetcode.card.workers.dev/BuiTheBoi?theme=unicorn&font=baloo&extension=null)
