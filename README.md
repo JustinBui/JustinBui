@@ -38,10 +38,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html" style="vertical-align:top; margin:3px">
 </p>
 
-<br />
-
 ### About me: 
-
 - 🎓 B.S. Computer Science from California State University, Fullerton (May 2023 Graduate)
 - 🔭 Check out my [professional portfolio!](https://justinbui.github.io/)
 - 📓 I’m currently expanding my knowledge on my fields of interest: Machine Learning, Embedded Systems, Full-Stack 🐍📜
@@ -52,9 +49,6 @@
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][gmail]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][linkedin]
-
-<br />
-
 [linkedin]: http://linkedin.com/in/justin-bui-4a8926194
 [gmail]: mailto:jbui3493@gmail.com
 
@@ -65,5 +59,4 @@
 
 
 ### Current LeetCode Journey:
-
 ![LeetCode Stats](https://leetcode.card.workers.dev/BuiTheBoi?theme=unicorn&font=baloo&extension=null)
