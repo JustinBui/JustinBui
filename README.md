@@ -7,24 +7,10 @@
     <img src="Banner.gif" width="710" height="300" />
 </p>
 
-### I am a computer science student at California State University, Fullerton!
-
-- 🔭 I've launched my professional portfolio: [Check It Out Here!](https://justinbui.github.io/)
-- 📓 I’m currently expanding my knowledge on web backend and machine learning through self-learning 🐍📜
-- 🏙️ I’m actively seeking entry level positions for software engineers and/or data scientist
-- 🥅 2023 Goals: Continue applying for jobs, solving more Leetcode problems, and continue learning! 🧠
-- 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
-- 🦞 Fun Fact: I love seafood!!
-
-### Connect with me:
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][gmail]
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][linkedin]
-
-<br />
 
 ### Languages and Tools I've Worked With:
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html" style="vertical-align:top; margin:3px">
 <img src="https://camo.githubusercontent.com/af4a4d88e07eb6edbb39a752bcd1a4fd3ac989542fb5b878b741872ea66fda9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7838362d417373656d626c792d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c266c6f676f436f6c6f723d77686974" alt="html" style="vertical-align:top; margin:3px">
@@ -53,7 +39,21 @@
 </p>
 
 <br />
-<br>
+
+### About me: 
+
+- 🎓 B.S. Computer Science from California State University, Fullerton (May 2023 Graduate)
+- 🔭 Check out my [professional portfolio!](https://justinbui.github.io/)
+- 📓 I’m currently expanding my knowledge on my fields of interest: Machine Learning, Embedded Systems, Full-Stack 🐍📜
+- 🏙️ I’m actively seeking entry level positions for software engineers and/or data scientist
+- 🥅 2023 Goals: Continue applying for jobs, solving more Leetcode problems, and continue learning! 🧠
+- 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
+
+### Connect with me:
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][gmail]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][linkedin]
+
+<br />
 
 [linkedin]: http://linkedin.com/in/justin-bui-4a8926194
 [gmail]: mailto:jbui3493@gmail.com
