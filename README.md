@@ -4,7 +4,7 @@
     <img src=https://komarev.com/ghpvc/?username=BuiTheBoi&style=for-the-badge>
 </p>
 <p align="center">
-    <img src=https://c.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif width="700" height="270" />
+    <img src="Banner.gif" width="700" height="240" />
 </p>
 
 ### I am a computer science student at California State University, Fullerton!
