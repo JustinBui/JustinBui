@@ -43,12 +43,12 @@
 </p>
 
 ### About me: 
-- 🎓 B.S. Computer Science from California State University, Fullerton (May 2023 Graduate)
-- 🔭 Check out my [professional portfolio!](https://justinbui.github.io/)
-- 📓 I’m currently expanding my knowledge on my fields of interest: Machine Learning, Embedded Systems, Full-Stack 🐍📜
-- 🏙️ I’m actively seeking entry level positions for software engineers and/or data scientist
-- 🥅 2023 Goals: Continue applying for jobs, solving more Leetcode problems, and continue learning! 🧠
-- 🏋️ Hobbies: Working out, watching YouTube, and listening to music 🎵
+- 🦈 M.S. Computer Science @ California State University, Long Beach (Current Student) 
+- 🐘 B.S. Computer Science @ California State University, Fullerton (Graduated 2023) 🎓 
+- 🔗 Check out my [professional portfolio!](https://justinbui.github.io/)
+- 🧠 Actively seeking summer 2024 internship positions related to data science and macnhine learning
+- 🥅 2024 Goals: Continue applying for jobs, solving more Leetcode problems, and keep on learning! 👓
+- 💪 Hobbies: Working out, watching shows, and listening to music 🎵
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][gmail]
