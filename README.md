@@ -47,7 +47,7 @@
 - 🐘 B.S. Computer Science @ California State University, Fullerton (Graduated 2023) 🎓 
 - 🔗 Check out my [professional portfolio!](https://justinbui.github.io/)
 - 🧠 Actively seeking summer 2024 internship positions related to data science and macnhine learning
-- 🥅 2024 Goals: Continue applying for jobs, solving more Leetcode problems, and keep on learning! 👓
+- 🥅 2024 Goals: Continue applying for jobs, solve more Leetcode problems, and keep on learning! 👓
 - 💪 Hobbies: Working out, watching shows, and listening to music 🎵
 
 ### Connect with me:
