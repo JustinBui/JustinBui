@@ -4,7 +4,7 @@
     <img src=https://komarev.com/ghpvc/?username=BuiTheBoi&style=for-the-badge>
 </p>
 <p align="center">
-    <img src="Banner.gif" width="710" height="300" />
+    <img src="Banner 2.gif" width="710" height="300" />
 </p>
 
 
