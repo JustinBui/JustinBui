@@ -53,9 +53,11 @@
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][gmail]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][linkedin]
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="html" style="vertical-align:top; margin:3px">][kaggle]
 
 [linkedin]: http://linkedin.com/in/justin-bui-4a8926194
 [gmail]: mailto:jbui3493@gmail.com
+[kaggle]: https://www.kaggle.com/justinbui12
 
 <!-- <img width="465" height="225" src="https://github-readme-stats.vercel.app/api?username=justinbui&show_icons=true&theme=highcontrast&include_all_commits=true&hide=stars" style="border-radius:10px;"> -->
 <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinbui&hide_progress=true&theme=highcontrast" style="border-radius:10px;">
